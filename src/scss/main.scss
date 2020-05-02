@@ -1,0 +1,9 @@
+.wrapper {
+	display: flex;
+}
+h1 {
+	color: red;
+	.class {
+		color: #fff;
+	}
+}
